@@ -11,10 +11,14 @@
             "id": "fe9380324fa16e6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Jd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "แท็บใหม่"
+              "title": "Jd"
             }
           }
         ]
@@ -163,6 +167,8 @@
   },
   "active": "fe9380324fa16e6b",
   "lastOpenFiles": [
+    "Jd.md",
+    "Jdhdh",
     "คู่มือการจัดยา OPD IPD.docx",
     "การ Prepack ยาเม็ด IPD OPD",
     "การจัดยาเม็ด IPD OPD"
