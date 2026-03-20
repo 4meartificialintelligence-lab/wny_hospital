@@ -183,6 +183,12 @@
   },
   "active": "82396d3696c58243",
   "lastOpenFiles": [
+    "file/คู่มือการแพ็คยาเม็ด.docx",
+    "file/คู่มือการจัดยาฉีด.docx",
+    "file/คู่มือการจัดยา TB และ ARV.docx",
+    "file/คู่มือการจัดยา OPD IPD.docx",
+    "file/คู่มือการPREPACK ยาน้ำ 2026.docx",
+    "file",
     "งานรพ./การจัดยาฉีด.md",
     "งานรพ./การจัดยาเม็ด IPD OPD.md",
     "งานรพ./การ Prepack ยาเม็ด IPD OPD.md",
@@ -191,11 +197,6 @@
     "send_file.py",
     "generate_word_manual.py",
     "การจดยาฉีด",
-    "งานรพ.",
-    "Jd.md",
-    "Jdhdh",
-    "คู่มือการจัดยา OPD IPD.docx",
-    "การ Prepack ยาเม็ด IPD OPD",
-    "การจัดยาเม็ด IPD OPD"
+    "Jd.md"
   ]
 }
