@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "การจัดยาฉีด.md",
+                "file": "งานรพ./การจัดยาเม็ด IPD OPD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "การจัดยาฉีด"
+              "title": "การจัดยาเม็ด IPD OPD"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "การจัดยาฉีด.md",
+            "file": "งานรพ./การจัดยาเม็ด IPD OPD.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,14 +183,14 @@
   },
   "active": "82396d3696c58243",
   "lastOpenFiles": [
+    "งานรพ./การจัดยาฉีด.md",
+    "งานรพ./การจัดยาเม็ด IPD OPD.md",
+    "งานรพ./การ Prepack ยาเม็ด IPD OPD.md",
     "คู่มือขั้นตอนการแพ็คยา_OPD_IPD_ปรับปรุงใหม่.docx",
     "send_via_openclaw.py",
     "send_file.py",
     "generate_word_manual.py",
-    "การจัดยาฉีด.md",
-    "งานรพ./การ Prepack ยาเม็ด IPD OPD.md",
     "การจดยาฉีด",
-    "งานรพ./การจัดยาเม็ด IPD OPD.md",
     "งานรพ.",
     "Jd.md",
     "Jdhdh",
