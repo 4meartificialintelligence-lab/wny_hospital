@@ -1,4 +1,8 @@
-{
+      "fromAddress": "",
+      "autoReplyEnabled": true,
+      "pollIntervalSeconds": 30,
+      "markSeen": true,
+      "maxBodyChars": 12{
   "agents": {
     "defaults": {
       "workspace": "~/.nanobot/workspace",
@@ -43,11 +47,7 @@
       "smtpPassword": "",
       "smtpUseTls": true,
       "smtpUseSsl": false,
-      "fromAddress": "",
-      "autoReplyEnabled": true,
-      "pollIntervalSeconds": 30,
-      "markSeen": true,
-      "maxBodyChars": 12000,
+000,
       "subjectPrefix": "Re: ",
       "allowFrom": []
     },
