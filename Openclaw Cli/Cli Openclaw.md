@@ -1,6 +1,6 @@
 openclaw config set agents.defaults.model.primary "custom-api-deepseek-com/deepseek-reasoner"
 
-openclaw config set agents.defaults.model.fallbacks '["opencode-go/minimax-m2.5", "google/gemini-3.1-pro-preview","openrouter/free"]' --strict-json
+openclaw config set agents.defaults.model.fallbacks '["custom-api-deepseek-com/deepseek-reasoner","opencode-go/minimax-m2.5", "google/gemini-3.1-pro-preview","openrouter/free"]' --strict-json
 
 {
   "meta": {
