@@ -1,6 +1,6 @@
-openclaw config set agents.defaults.model.primary "anthropic/claude-sonnet-4-6"
+openclaw config set agents.defaults.model.primary "custom-api-deepseek-com/deepseek-reasoner"
 
-openclaw config set agents.defaults.model.fallbacks '["openai/gpt-5.2", "google/gemini-1.5-pro"]' --strict-json
+openclaw config set agents.defaults.model.fallbacks '["opencode-go/minimax-m2.5", "google/gemini-3.1-pro-preview","openrouter/free"]' --strict-json
 
 {
   "meta": {
