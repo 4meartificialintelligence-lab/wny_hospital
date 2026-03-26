@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "งานรพ./การ Prepack ยาเม็ด IPD OPD.md",
+                "file": "Openclaw Cli/Cli Openclaw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "การ Prepack ยาเม็ด IPD OPD"
+              "title": "Cli Openclaw"
             }
           }
         ]
@@ -168,6 +168,9 @@
   },
   "active": "fe9380324fa16e6b",
   "lastOpenFiles": [
+    "งานรพ./การ Prepack ยาเม็ด IPD OPD.md",
+    "Openclaw Cli/Cli Openclaw.md",
+    "Openclaw Cli",
     "Openclaw/Nanobot Config.md",
     "งานรพ./การจัดยาเม็ด IPD OPD.md",
     "Openclaw",
@@ -179,10 +182,8 @@
     "file/คู่มือการPREPACK ยาน้ำ 2026.docx",
     "file",
     "งานรพ./การจัดยาฉีด.md",
-    "งานรพ./การ Prepack ยาเม็ด IPD OPD.md",
     "คู่มือขั้นตอนการแพ็คยา_OPD_IPD_ปรับปรุงใหม่.docx",
     "send_via_openclaw.py",
-    "send_file.py",
     "Jd.md"
   ]
 }
