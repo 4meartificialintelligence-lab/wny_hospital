@@ -15,7 +15,7 @@
               "state": {
                 "file": "MaliAI-Bank/สั่ง AGENT คำสั่งตั้งค่า .gitignore.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "สั่ง AGENT คำสั่งตั้งค่า .gitignore"
