@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Openclaw Cli/Cli Openclaw.md",
+                "file": "MaliAI-Bank/ยังไม่ได้ตั้งชื่อ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cli Openclaw"
+              "title": "ยังไม่ได้ตั้งชื่อ"
             }
           }
         ]
@@ -168,8 +168,10 @@
   },
   "active": "fe9380324fa16e6b",
   "lastOpenFiles": [
-    "ยังไม่ได้ตั้งชื่อ.md",
     "Openclaw Cli/Cli Openclaw.md",
+    "MaliAI-Bank/ยังไม่ได้ตั้งชื่อ.md",
+    "MaliAI-Bank",
+    "ยังไม่ได้ตั้งชื่อ.md",
     "file/คู่มือการแพ็คยาเม็ด.docx",
     "file/คู่มือการจัดยาฉีด.docx",
     "file/คู่มือการจัดยา TB และ ARV.docx",
@@ -185,7 +187,6 @@
     "งานรพ./รายชื่อยา ที่ได้รับมอบหมายให้ตรวจ.md",
     "file/คู่มือการจัดยา OPD IPD.docx",
     "งานรพ./การจัดยาฉีด.md",
-    "คู่มือขั้นตอนการแพ็คยา_OPD_IPD_ปรับปรุงใหม่.docx",
     "Jd.md"
   ]
 }
