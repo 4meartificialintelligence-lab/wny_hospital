@@ -40,3 +40,9 @@ logs/
 tmp/
 dist/
 build/
+
+4. คำสั่งตรวจสอบ (Verification Commands):
+หากต้องการเช็คว่าไฟล์เหล่านั้นถูกยกเว้นจริงหรือไม่ ให้ใช้คำสั่ง:
+git status (ไฟล์ที่ระบุใน .gitignore จะต้องไม่ปรากฏในรายการ "Untracked files")
+
+
