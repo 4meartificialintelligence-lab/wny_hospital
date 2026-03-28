@@ -11,3 +11,32 @@
 สร้างไฟล์ตัวอย่าง (Best Practice):
 สร้างไฟล์ชื่อ .env.example เพื่อเก็บโครงสร้างชื่อตัวแปร (แต่ไม่ใส่ค่าจริง) เพื่อให้คนอื่นในทีมรู้ว่าต้องตั้งค่าตัวแปรอะไรบ้าง
 3. รายการเนื้อหาภายในไฟล์ .gitignore (Template Content):
+# --- Security & Credentials ---
+.env
+.env.local
+.env.*
+*.pem
+*.key
+credentials.json
+auth.json
+
+# --- Dependency Folders ---
+node_modules/
+vendor/
+bin/
+obj/
+__pycache__/
+
+# --- OS & IDE Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# --- Logs & Temp ---
+*.log
+logs/
+tmp/
+dist/
+build/
